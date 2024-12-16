@@ -43,7 +43,7 @@ If you share similar interests or want to collaborate, feel free to **reach out 
 
 
 ## 📫 Get in Touch  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vvberdinskiy26@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvberdinskiy26@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-berdinskiy/)
 
 Thanks for stopping by! 😊  
